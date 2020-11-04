@@ -1,5 +1,5 @@
 # Systems Software
- Code from Systems Software class, mostly C/C++ code
+ Code from Systems Software class and possibly other c/c++ code, mostly C/C++ code
 
 This code is free to use unless you're using it to cheat in class, that's a nono
 
